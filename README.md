@@ -1,1 +1,1 @@
-# Mobile HTML5 Game based on Phase engine
+# Mobile Game based on Phaser HTML5 Game Engine
